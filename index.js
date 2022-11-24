@@ -1,4 +1,4 @@
-import plugs from '/data.js'
+import plugs from './data.js'
 
 const main = document.querySelector('.main')
 
